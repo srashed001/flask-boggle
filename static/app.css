@@ -1,0 +1,15 @@
+
+
+table {
+    border-spacing: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+body {
+    margin: 3em;
+}
+
+.start-new-game {
+    margin: 1em;
+}
